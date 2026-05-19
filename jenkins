@@ -1,0 +1,29 @@
+pipeline {
+    agent any
+
+    stages {
+        stage('Build') {
+            steps {
+                echo 'Building the project...'
+                // Example: compile code
+                sh 'javac MyApp.java'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                echo 'Running tests...'
+                // Example: run tests
+                sh 'java org.junit.runner.JUnitCore MyAppTest'
+            }
+        }
+
+        stage('Deploy') {
+            steps {
+                echo 'Deploying application...'
+                // Example: copy files or run deploy script
+                sh './deploy.sh'
+            }
+        }
+    }
+}
