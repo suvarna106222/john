@@ -1,0 +1,61 @@
+C:\Users\suvar\Downloads\ChromeSetup.exe|2025-08-13 04:13:55.890
+C:\Users\suvar\Downloads\MSTeamsSetup.exe|2025-08-13 04:23:43.541
+C:\Program Files\WindowsApps\MSTeams_25198.1109.3837.4725_x64__8wekyb3d8bbwe\ms-teams.exe|2025-08-16 08:57:13.969
+C:\Program Files\WindowsApps\MSTeams_25198.1112.3855.2900_x64__8wekyb3d8bbwe\ms-teams.exe|2025-09-04 04:09:34.790
+C:\Program Files\WindowsApps\Microsoft.GetHelp_10.2409.22951.0_x64__8wekyb3d8bbwe\GetHelp.exe|2025-08-17 15:17:03.226
+C:\Users\suvar\Downloads\bittorrent_installer.exe|2025-08-17 18:19:39.795
+C:\Users\suvar\Downloads\OperaSetup.exe|2025-08-17 18:22:09.563
+C:\Users\suvar\AppData\Roaming\bittorrent\BitTorrent.exe|2025-09-19 11:26:37.517
+C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2506.35.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe|2025-08-26 11:54:20.433
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25074.146.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-08-20 12:06:07.826
+C:\Users\suvar\Downloads\Microsoft Office 2021 Pro Plus (365 ) + Patch\Microsoft Office 2021 Pro Plus\Microsoft Office 2021 Pro Plus (365 + Patch\Microsoft Office 2021 Pro Plus [16.0.14332.20110] [x64].exe|2025-10-24 06:34:48.492
+C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeC2RClient.exe|2025-10-24 06:30:54.340
+C:\Program Files\Microsoft Office\root\Integration\Integrator.exe|2026-05-19 08:41:37.175
+C:\Users\suvar\Downloads\vlc-media-player-3.0.21-installer_yyfw-52.exe|2025-08-20 13:11:12.141
+C:\Users\suvar\Downloads\Reader_uk_install.exe|2025-08-20 13:12:53.110
+C:\Program Files (x86)\VideoLAN\VLC\vlc.exe|2025-09-18 09:02:50.527
+C:\Users\suvar\AppData\Local\Microsoft\Teams\Update.exe|2025-08-20 15:39:01.862
+C:\Users\suvar\AppData\Local\Microsoft\Teams\current\Teams.exe|2025-08-20 15:39:57.432
+C:\Users\suvar\Downloads\Microsoft_Teams_V24244.507.3118.4732.exe|2025-08-20 15:41:05.669
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\AdobeARM.exe|2026-05-19 08:46:45.813
+C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25072.52.0_x64__cw5n1h2txyewy\CrossDeviceService.exe|2025-08-26 10:50:07.683
+C:\Program Files\Adobe\Acrobat DC\Acrobat\Acrobat.exe|2026-04-18 19:18:43.839
+C:\Windows\System32\msiexec.exe|2025-09-13 04:12:08.004
+C:\Program Files\WindowsApps\MSTeams_25227.203.3915.2444_x64__8wekyb3d8bbwe\ms-teams.exe|2025-09-12 03:25:05.645
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Temp\671706787\AdobeARMHelper.exe|2025-09-06 11:18:14.472
+C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2507.26.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe|2025-11-10 08:57:47.152
+C:\Program Files\WindowsApps\MSTeams_25227.205.3936.6644_x64__8wekyb3d8bbwe\ms-teams.exe|2025-09-17 13:05:18.795
+C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25082.70.0_x64__cw5n1h2txyewy\CrossDeviceService.exe|2025-09-17 05:10:04.013
+C:\Users\suvar\Downloads\Zoom_cm_fo4wZ9vvrZo4_mZ7As7OB445Ux5BtJIQ0X3cXBgNodc1muc40k@acs2iE4bmrF1bTWH_ka6e18582c0ea7541_.exe|2025-09-17 05:23:32.581
+C:\Users\suvar\Downloads\WhatsApp Installer.exe|2025-09-17 11:35:40.065
+C:\Program Files\WindowsApps\MSTeams_25241.203.3947.4411_x64__8wekyb3d8bbwe\ms-teams.exe|2025-10-24 06:41:55.291
+C:\Users\suvar\Downloads\vlc-media-player-3.0.21-installer.exe|2025-09-18 09:02:33.213
+C:\Users\suvar\Downloads\Reader_en_install.exe|2025-09-23 10:22:04.694
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2025.11080.28001.0_x64__8wekyb3d8bbwe\Photos.exe|2025-10-24 07:07:31.570
+C:\Program Files\WindowsApps\Microsoft.ScreenSketch_11.2507.15.0_x64__8wekyb3d8bbwe\SnippingTool\SnippingTool.exe|2025-09-24 11:00:27.679
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25092.166.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-09-24 14:23:18.137
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25093.137.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-09-30 06:03:04.050
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25093.144.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-10-04 07:46:57.714
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25094.120.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-10-07 11:28:17.890
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25095.161.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-10-10 11:48:28.490
+C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25092.33.0_x64__cw5n1h2txyewy\CrossDeviceService.exe|2025-10-20 08:31:13.634
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25096.23.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-10-22 04:41:11.349
+C:\Users\suvar\AppData\Local\Temp\WinGet\XPDP273C0XHQH2.25.001.20693\ba202d41-cbb6-4c5f-bff5-9884c5f539a8_52be95489730c8b3125b221e8c738fa1fccd9de4aa2d5f31a6dd15be6be0446b.exe|2025-10-24 05:45:10.575
+C:\Program Files\WindowsApps\MSTeams_25275.2601.4002.2815_x64__8wekyb3d8bbwe\ms-teams.exe|2025-11-19 09:14:44.275
+C:\Users\suvar\AppData\Roaming\Zoom\bin\Zoom.exe|2025-10-27 05:44:53.436
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25102.233.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-10-28 07:12:57.963
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25103.108.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-11-04 10:16:34.813
+C:\Program Files\WindowsApps\MicrosoftWindows.CrossDevice_1.25101.31.0_x64__cw5n1h2txyewy\CrossDeviceService.exe|2025-11-10 05:24:32.216
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25104.66.0_x64__8wekyb3d8bbwe\Copilot.exe|2025-11-11 05:38:01.000
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2025.11100.9001.0_x64__8wekyb3d8bbwe\Photos.exe|2025-12-02 18:15:40.617
+C:\Program Files\WindowsApps\Microsoft.Copilot_1.25111.85.0_x64__8wekyb3d8bbwe\Copilot.exe|2026-05-19 09:07:01.856
+C:\Program Files\WindowsApps\MSTeams_25306.804.4102.7193_x64__8wekyb3d8bbwe\ms-teams.exe|2026-05-13 17:46:00.888
+C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2508.38.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe|2026-05-14 11:58:39.099
+C:\Program Files\Adobe\Acrobat DC\Acrobat\ADNotificationManager.exe|2026-05-19 08:32:55.249
+C:\Program Files\WindowsApps\Microsoft.Windows.Photos_2025.11110.18001.0_x64__8wekyb3d8bbwe\Photos.exe|2026-01-25 18:07:05.840
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2025.702.500_x64__8wekyb3d8bbwe\olk.exe|2026-04-02 16:25:03.580
+C:\Program Files\WindowsApps\Microsoft.OutlookForWindows_1.2026.317.100_x64__8wekyb3d8bbwe\olk.exe|2026-04-02 16:28:04.516
+C:\Program Files (x86)\Common Files\Adobe\ARM\1.0\Temp\1790908183\AdobeARMHelper.exe|2026-04-19 17:59:28.518
+C:\Program Files\WindowsApps\MSTeams_26106.1906.4665.7308_x64__8wekyb3d8bbwe\ms-teams.exe|2026-05-19 08:32:39.393
+C:\Program Files\WindowsApps\Microsoft.WindowsNotepad_11.2512.29.0_x64__8wekyb3d8bbwe\Notepad\Notepad.exe|2026-05-14 12:06:18.432
+C:\Users\suvar\Downloads\Git-2.54.0-64-bit.exe|2026-05-19 08:49:13.840
