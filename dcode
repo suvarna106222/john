@@ -1,0 +1,14 @@
+# Start from a very small base image
+FROM alpine:latest
+
+# Install only what you need (example: curl)
+RUN apk add --no-cache curl
+
+# Set working directory
+WORKDIR /app
+
+# Copy only necessary files
+COPY . .
+
+# Default command
+CMD ["echo", "Hello from lightweight Docker!"]
